@@ -1,6 +1,32 @@
 groom = "Chris"
 bride = "Annika"
-congratulants = ["Judith", "Kamal", "Clemens", "Daniel", "Anna-Lena", "Simeon", "Joy", "Sebastian", "Selina", "Peter", "Léa", "Fabienne", "Jake", "Markus", "Steffi", "Elli", "Ellen", "Tina", "Alison", "Philipp", "Christine", "Nico", "Alexander", "Katharina", "Maximilian", "Carsten S.", "Merlin🐶"]
+congratulants = ["Judith", 
+                 "Kamal", 
+                 "Clemens", 
+                 "Daniel", 
+                 "Anna-Lena", 
+                 "Simeon", 
+                 "Joy", 
+                 "Sebastian", 
+                 "Selina", 
+                 "Peter", 
+                 "Léa", 
+                 "Fabienne", 
+                 "Jake", 
+                 "Markus", 
+                 "Steffi", 
+                 "Elli", 
+                 "Ellen", 
+                 "Tina", 
+                 "Alison", 
+                 "Philipp", 
+                 "Alexander", 
+                 "Katharina", 
+                 "Maximilian", 
+                 "Carsten S.", 
+                 "Christine", 
+                 "Nico",
+                 "Merlin🐶"]
 
 def best_wishes(groom, bride, congratulant):
     message = (
